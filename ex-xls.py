@@ -2,7 +2,7 @@
 """
 Created on Thu Jun 28 23:56:51 2018
 
-@author: 爸比
+@author: Y.F.Liu
 """
 
 import openpyxl as xls
